@@ -1,0 +1,12 @@
+# Data files
+data/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
